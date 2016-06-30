@@ -2,10 +2,17 @@
 <items version="2" >
 
     <item
+        jar="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_15fa623e15315b0970ffe92f79277fb3eab1e510/classes.dex" />
+    </item>
+    <item
         jar="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="891ce3f62ad3959035c1e2bf0c4259e6c7ac87e2">
+        sha1="3600288273d8971f05cdab6e039e855738874347">
         <dex dex="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d86e75b9a5a99c07c03f00e5bc80de28c9b74dfe/classes.dex" />
     </item>
     <item
@@ -23,20 +30,6 @@
         <dex dex="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_3deff1220a3586d5b38e55defe96a27b08f4a60f/classes.dex" />
     </item>
     <item
-        jar="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_01483b7627d86a99a7b4aa17b1e420457cdfdebc/classes.dex" />
-    </item>
-    <item
-        jar="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_15fa623e15315b0970ffe92f79277fb3eab1e510/classes.dex" />
-    </item>
-    <item
         jar="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
@@ -47,7 +40,7 @@
         jar="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="75a877118f3f5855020db4be2bc52f1fca6744cb">
+        sha1="5d1237d15ecd07ebeb2e8517faa9a458a8a2b77d">
         <dex dex="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b24dbfb364c02ab77c86b719bc87f119a32626ab/classes.dex" />
     </item>
     <item
@@ -56,6 +49,13 @@
         revision="23.0.3"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
         <dex dex="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ce572ef24b16b7377b7b1bca5fd404e0cbd95206/classes.dex" />
+    </item>
+    <item
+        jar="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/li/android/test/android/SettingSystem/SettingSystemTest/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_01483b7627d86a99a7b4aa17b1e420457cdfdebc/classes.dex" />
     </item>
 
 </items>
